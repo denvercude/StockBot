@@ -1,0 +1,11 @@
+# Python-specific ignores
+__pycache__/
+*.py[cod]
+venv/
+
+# Data and models
+data/
+models/
+
+# System files
+.DS_Store
