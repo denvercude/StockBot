@@ -1,3 +1,6 @@
+# API Keys
+.env
+
 # Python-specific ignores
 __pycache__/
 *.py[cod]

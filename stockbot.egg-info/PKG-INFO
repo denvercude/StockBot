@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: stockbot
+Version: 0.1
+Requires-Dist: requests
+Requires-Dist: pandas
+Requires-Dist: python-dotenv
+Requires-Dist: pytest
